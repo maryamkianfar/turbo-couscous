@@ -23,7 +23,7 @@
   "author": "Miguel Medeiros <contact@miguelmedeiros.com.br> (miguelmedeiros.com.br)",
   "url": "https://mempool.space/",
   "private": false,
-  "repository": {
+  "repository": {4
     "type": "git",
     "url": "git://github.com/mempool/mempool.js.git"
   },
